@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'data_classes.dart';
 
-void maine() {
+void main() {
   runApp(MainApp());
 }
 
